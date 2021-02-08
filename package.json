@@ -1,0 +1,17 @@
+{
+  "name": "webpack-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "loader-utils": "^2.0.0",
+    "schema-utils": "^3.0.0",
+    "util": "^0.12.3"
+  }
+}
